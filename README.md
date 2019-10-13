@@ -9,4 +9,4 @@ A Python script designed to play the game "Colorfight 2." Designed and written a
 [AI]nvasion: A full-day hackathon where teams had to design an AI to play the game "Colorfight 2." More information can be found at [Colorfight 2's official website](colorfightai.com). The event took place at UCLA's Engineering VI building on October 12, 2019.
 
 
-![Victory image](C:/Users/tedya/Desktop/colorfight1)
+![Victory image](C:/Users/tedya/Desktop/colorfight1.png)
