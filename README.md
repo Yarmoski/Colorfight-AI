@@ -6,6 +6,6 @@ A Python script designed to play the game "Colorfight 2." Designed and written a
 - Vishal Anantharaman
 - Zachary Chang
 
-[AI]nvasion: A full-day hackathon where teams had to design an AI to play the game "Colorfight 2." More information can be found at colorfightai.com
+[AI]nvasion: A full-day hackathon where teams had to design an AI to play the game "Colorfight 2." More information can be found at [Colorfight 2's official website](colorfightai.com)
 
 
