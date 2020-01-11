@@ -3,6 +3,23 @@ An algorithm designed to play the game "Colorfight 2." Designed and written usin
 
 The replay file (RuntimeTerrorsVictory.cfr) can also be loaded and viewed on the [Colorfight 2 Website](colorfightai.com).
 
+## Game Overview
+ColorfightII is a round based game where players try to expand their territory and collect resources to win the game.
+
+There are two kinds of resources:
+- Energy
+- Gold
+
+Each player starts with an initial amount of energy and a home cell. Each cell controlled by the player during a round will provide gold and energy.
+
+Players can use energy to attack and occupy other cells to expand their territory and gain more gold and energy per turn.
+
+Players can use gold to build different buildings on their own cells to enhance their effects.
+
+At the end of the game, the player with the most gold wins.
+
+More information can be found at: https://colorfightai.com/docs
+
 ## Team members (The Runtime Terrors):
 - Vishal Anantharaman
 - Zachary Chang
