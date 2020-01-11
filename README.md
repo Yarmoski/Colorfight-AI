@@ -18,6 +18,19 @@ Players can use gold to build different buildings on their own cells to enhance 
 
 At the end of the game, the player with the most gold wins.
 
+
+## Team members (The Runtime Terrors):
+- Vishal Anantharaman
+- Zachary Chang
+- Ted Yarmoski
+
+### Event Information
+[AI]nvasion: A full-day hackathon where teams had to design an AI to play the game "Colorfight 2." More information can be found at [Colorfight 2's official website](https://colorfightai.com/). The event took place at UCLA's Engineering VI building on October 12, 2019.
+
+
+![](./colorfight1.PNG)
+
+
 ### Game Flow
 
 #### Preparation
@@ -86,14 +99,3 @@ Note that a player can build and upgrade a cell in the same round since the buil
 
 
 This information can be found at [the Colorfight documentation page](https://colorfightai.com/docs)
-
-## Team members (The Runtime Terrors):
-- Vishal Anantharaman
-- Zachary Chang
-- Ted Yarmoski
-
-### Event Information
-[AI]nvasion: A full-day hackathon where teams had to design an AI to play the game "Colorfight 2." More information can be found at [Colorfight 2's official website](https://colorfightai.com/). The event took place at UCLA's Engineering VI building on October 12, 2019.
-
-
-![](./colorfight1.PNG)
