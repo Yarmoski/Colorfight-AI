@@ -1,5 +1,5 @@
 # Colorfight AI Script
-An algorithm designed to play the game "Colorfight 2." Designed and written using Python at the UCLA [AI]nvasion event sponsored by Green Hills Software and hosted by UCLA ACM. Our AI was able to reach the final rounds of the competition and performed exceedingly well in qualifying brackets.
+An algorithm designed to play the game "Colorfight 2." Designed and written using Python at the UCLA [AI]nvasion event sponsored by Green Hills Software. Our AI was able to reach the final rounds of the competition and performed exceedingly well in qualifying brackets.
 
 The replay file (RuntimeTerrorsVictory.cfr) can also be loaded and viewed on the [Colorfight 2 Website](https://colorfightai.com/).
 
