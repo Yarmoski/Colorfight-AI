@@ -179,7 +179,7 @@ if __name__ == '__main__':
         game     = game, \
         room     = room, \
         username = 'BigChungus', \
-        password = 'wacko'
+        password = 'wacko '
     )
     # ======================================================================
 
