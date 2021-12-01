@@ -27,9 +27,9 @@ At the end of the game, the player with the most gold wins.
 ### Event Information
 [AI]nvasion: A full-day hackathon where teams had to design an AI to play the game "Colorfight 2." More information can be found at [Colorfight 2's official website](https://colorfightai.com/). The event took place at UCLA's Engineering VI building on October 12, 2019.
 
-
 ![](./colorfight1.PNG)
 
+https://user-images.githubusercontent.com/49767209/144322525-21f08a9a-b4ae-4bf0-8350-d5fd0e4c5137.mp4
 
 ### Game Flow
 
